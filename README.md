@@ -6,7 +6,6 @@ StudySync is a responsive educational website built using HTML and CSS. It featu
 
 A modern, clean, and responsive educational website built with HTML and CSS. StudySync is designed for learners and educators, featuring a sleek layout and multiple sections including Features, Pricing, Blog, and Testimonials.
 
-![StudySync Preview](https://akstudysyn.netlify.app/preview.png) 
 
 ## 🔗 Live Demo
 
